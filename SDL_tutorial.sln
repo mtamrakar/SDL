@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDL_tutorial", "SDL_tutorial\SDL_tutorial.vcxproj", "{FB56933A-C1AD-4E74-9579-0BC3A6F53A8F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB56933A-C1AD-4E74-9579-0BC3A6F53A8F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB56933A-C1AD-4E74-9579-0BC3A6F53A8F}.Debug|Win32.Build.0 = Debug|Win32
+		{FB56933A-C1AD-4E74-9579-0BC3A6F53A8F}.Release|Win32.ActiveCfg = Release|Win32
+		{FB56933A-C1AD-4E74-9579-0BC3A6F53A8F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
